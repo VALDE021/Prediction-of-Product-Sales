@@ -1,7 +1,10 @@
 # Prediction-of-Product-Sales
-### a sales prediction for food items sold at various stores.
-Start updating the README file associated with the project.
+## A sales prediction for food items sold at various stores. Exploratory Analysis of Product Sales.
 
-Add text describing the project.
-Select two key visuals of different types that demonstrate a relevant insight into the data. Add text with a brief (1 sentence is sufficient) interpretation of the visuals you include. 
-![Benefits Of Sales Forecasting](https://github.com/VALDE021/Prediction-of-Product-Sales/assets/134979886/03ca2622-ed52-4cde-8936-9a7e61f2296a)
+### A Heatmap that looks over over all avenues correlated in the graph, towards the Product of Sales.
+![HeatMap](https://github.com/VALDE021/Prediction-of-Product-Sales/assets/134979886/52a820e9-356a-44ba-ad93-4c15f48c0431)
+### Countplot establishing the Item_Outlet_Sales over the Prediction of Product Sales.
+![Uploading Categorical Countplot.png…]()
+
+Add text with a brief (1 sentence is sufficient) interpretation of the visuals you include. 
+
