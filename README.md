@@ -68,7 +68,7 @@ The next steps are to continue working on the buisness issues and improve the pr
 >> 2.   Outlet_Identifier_OUT013
 >> 3.   Outlet_Identifier_OUT019
 
-![Linear Regression](https://drive.google.com/drive/folders/1UdrbZ7l3_kCA52drVUHgVAZTyYM29Y7E)
+![Linear Regression](https://github.com/VALDE021/Prediction-of-Product-Sales/assets/134979886/e5dc62e1-aa32-4049-9511-8c51a29e5654)
 * Looking at how the Outlet_Identifier react to the graph is way we can pinpoint where the improvments in other locations need to be addressed and how to predict the outcomes.
 
 * Then looked at our top 5 important features, which you see in a Random Forest (RF) Tree Model.
@@ -79,7 +79,8 @@ The next steps are to continue working on the buisness issues and improve the pr
 >> 4.   Item_Weight
 >> 5.   Outlet_Type_Supermarket Type 3
 
-![Tree Model: Random Forest](https://drive.google.com/drive/folders/1UdrbZ7l3_kCA52drVUHgVAZTyYM29Y7E)
+![Tree Model: Random Forest](https://github.com/VALDE021/Prediction-of-Product-Sales/assets/134979886/e8a30f94-55d9-4fe1-8e51-3763f57839a0)
+
 *  In this graph it shows how helpful each feature was in growing/sorting the tree-based model. The more helpful a feature was in separating the data, the more "important" it is. It allow us to take hard looks in different areas where sales may need to be improved are not at the top.
 
 In looking at these graphs we can see another way to hit our predictions by looking at different avenues, in specific features to see where product sales are affected and where we need to go from there.
