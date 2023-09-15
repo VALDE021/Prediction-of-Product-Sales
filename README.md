@@ -86,6 +86,7 @@ The next steps are to continue working on the buisness issues and improve the pr
 In looking at these graphs we can see another way to hit our predictions by looking at different avenues, in specific features to see where product sales are affected and where we need to go from there.
 
 ### For further information
+For any additional questions, please contact:
 
-
-For any additional questions, please contact **valdez.eric.n@gmail.com**
+Eric N. Valdez (Data Scientist)
+VALDE021@gmail.com
