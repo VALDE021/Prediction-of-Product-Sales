@@ -1,4 +1,6 @@
-# Product Sale Research
+# Product Sale Research 
+- Parts 1-8
+
 ## Sale Predictions on Products within Supermarkets and Grocery Stores
 
 **Authored by:** Eric N. Valdez
