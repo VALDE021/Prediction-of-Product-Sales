@@ -30,7 +30,7 @@ store locations, it will help you see where improvemnets can be made for opportu
 ## Methods
 - From the beginning we've been able to chart different graphs to help see where the sale issues are
 - We've been able to take it further with Machine learning to see different ways are target is affected 
-- 
+- Ways to predict product sales
 
 ## Results
 
