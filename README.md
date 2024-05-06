@@ -34,7 +34,7 @@ store locations, it will help you see where improvemnets can be made for opportu
 
 ## Results
 
-### Here are examples of how to embed images from your sub-folder
+### Here are examples of visualizations
 
 
 #### Heat Map of Prediction of Product Sales
