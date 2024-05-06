@@ -1,4 +1,16 @@
-# Product Sale Research 
+# Prediction of Product Sales
+Welcome to the Prediction of Product Sales project! This repository hosts a solution that predicts product sales using machine learning techniques. Whether you're a data enthusiast, a business owner, or just curious about predictive analytics, you're in the right place!
+
+# About
+This project aims to forecast product sales based on historical data. By leveraging machine learning algorithms, we predict future sales trends, helping businesses make informed decisions about inventory management, marketing strategies, and more.
+
+# Features
+- **Easy-to-Use:** Our solution is designed to be user-friendly, even if you're new to data science.
+- **Predictive Power:** Leverages state-of-the-art machine learning techniques to provide accurate sales predictions.
+- **Customizable:** Feel free to tweak parameters and experiment with different models to suit your specific needs.
+
+
+## Project Outcome and Findings 
 - Parts 1-8
 
 ## Sale Predictions on Products within Supermarkets and Grocery Stores
