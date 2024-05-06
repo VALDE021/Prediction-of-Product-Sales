@@ -10,7 +10,7 @@ This project aims to forecast product sales based on historical data. By leverag
 - **Customizable:** Feel free to tweak parameters and experiment with different models to suit your specific needs.
 
 
-## Project Outcome and Findings 
+## Project Outcome and Scinetific Findings 
 - Parts 1-8
 
 ## Sale Predictions on Products within Supermarkets and Grocery Stores
@@ -37,11 +37,11 @@ store locations, it will help you see where improvemnets can be made for opportu
 #### Heat Map of Prediction of Product Sales
 ![Heat Map](https://github.com/VALDE021/Prediction-of-Product-Sales/assets/134979886/52a820e9-356a-44ba-ad93-4c15f48c0431)
 
-> Our heat map allows us to look at how we see our Item Oulet Sales correlates between other features that can affect our problem 
+> Our heat map allows us to look at how we see our Item Oulet Sales correlates between other features that can affect our sales.
 
 #### Random Forest Regressor Pipeline Model
 
-Random Forest Model allows us to classify and look at ther regression, it can be less sensitive to noise and outliers in the data
+Random Forest Model allows us to classify and look at the regression, it can be less sensitive to noise and outliers in the data
 
 ### Regression Metrics: Training Data 
 
