@@ -34,17 +34,12 @@ store locations, it will help you see where improvemnets can be made for opportu
 
 ## Results
 
-### Here are examples of visualizations
-
-
 #### Heat Map of Prediction of Product Sales
 ![Heat Map](https://github.com/VALDE021/Prediction-of-Product-Sales/assets/134979886/52a820e9-356a-44ba-ad93-4c15f48c0431)
 
 > Our heat map allows us to look at how we see our Item Oulet Sales correlates between other features that can affect our problem 
 
-#### Random Forest Regressor Pipeline
-
-## Model
+#### Random Forest Regressor Pipeline Model
 
 Random Forest Model allows us to classify and look at ther regression, it can be less sensitive to noise and outliers in the data
 
