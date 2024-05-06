@@ -62,16 +62,10 @@ and helps in Sales forecasting
 
 ## Recommendations:
 
-Overall my Random Forest Model came high in $R^2$ after it was tuned allowing us to see what could be forecasted, however .5 is still low, 
-and getting it to close to the 100% mark is going to take some more tuning to see what method can overall work for the company.
-
-
-## Limitations & Next Steps
-
-The next steps are to continue working on the buisness issues and improve the predictions for better results for the business. 
+Overall my Random Forest Model came high in $R^2$ after it was tuned allowing us to see what could be forecasted, however .5 is still low, and getting it close to the 100% is going to take some more tuning to see what method can overall work for forecasting.
 
 ### We have revisited our models to predict Supermarket Sales.
-* In doing this I used to models Linear Regression to look at the top 3 coefficients using a Linear Regression model
+* In doing this I used 2 models Linear Regression to look at the top 3 coefficients using a Linear Regression model
 > * The top 3 most impactful features:
 >> 1.   Outlet_Identifier_OUT010
 >> 2.   Outlet_Identifier_OUT013
@@ -80,8 +74,8 @@ The next steps are to continue working on the buisness issues and improve the pr
 ![Linear Regression](https://github.com/VALDE021/Prediction-of-Product-Sales/assets/134979886/e5dc62e1-aa32-4049-9511-8c51a29e5654)
 * Looking at how the Outlet_Identifier react to the graph is way we can pinpoint where the improvments in other locations need to be addressed and how to predict the outcomes.
 
-* Then looked at our top 5 important features, which you see in a Random Forest (RF) Tree Model.
-> * The top 5 that my RF Tree Model showed was is:
+* Looking at our top 5 important features, which I used in the Random Forest (RF) Tree Model.
+> * The top 5 of the RF Tree Model showed is:
 >> 1.   Item_MRP
 >> 2.   Outlet_Type Grocery Store
 >> 3.   Item_Visibility
@@ -97,5 +91,5 @@ In looking at these graphs we can see another way to hit our predictions by look
 ### For further information
 For any additional questions, please contact:
 
-Eric N. Valdez (Data Scientist)
-VALDE021@gmail.com
+Eric N. Valdez - [Data Scientist](https://www.linkedin.com/in/eric-n-valdez-94a9003/)
+
