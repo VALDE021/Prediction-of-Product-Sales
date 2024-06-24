@@ -15,7 +15,7 @@ This project aims to forecast product sales based on historical data. By leverag
 
 ## Sale Predictions on Products within Supermarkets and Grocery Stores
 
-**Authored by:** Eric N. Valdez
+**Authored by:** [Eric N. Valdez](https://www.linkedin.com/in/eric-n-valdez-94a9003/)
 
 ### Business problem:
 
